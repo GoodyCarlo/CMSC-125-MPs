@@ -1,0 +1,27 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+#MP2 Frontend
+
+# dependencies
+/MP2/mp2-frontend/node_modules
+/MP2/mp2-frontend/.pnp
+/MP2/mp2-frontend/.pnp.js
+
+# testing
+/MP2/mp2-frontend/coverage
+
+# production
+/MP2/mp2-frontend/build
+
+# misc
+/MP2/mp2-frontend/.DS_Store
+/MP2/mp2-frontend/.env.local
+/MP2/mp2-frontend/.env.development.local
+/MP2/mp2-frontend/.env.test.local
+/MP2/mp2-frontend/.env.production.local
+
+/MP2/mp2-frontend/npm-debug.log*
+/MP2/mp2-frontend/yarn-debug.log*
+/MP2/mp2-frontend/yarn-error.log*
+
+##
